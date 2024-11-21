@@ -1,7 +1,9 @@
-# 天工开悟-农业多模态大模型(KwooVA)
 
-[//]: # (![image-20241121160240431]&#40;assets/image-20241121160240431.png&#41;)
+<div align="center">
 <img src="./assets/image-20241121160240431.png" width="300em" ></img> 
+</div>
+
+## 天工开悟-农业多模态大模型(KwooVA)
 > **天工不遗，以配万物；开悟不止，以成百谷。**
 
 ### 模型简介
@@ -26,7 +28,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 - [2024/11/20] **更新了KwooVA的APP使用教程和测试用例**，让用户能够快速上手，充分体验KwooVA在农业生产中的高效性与便捷性，推动智能农业的普及和落地。
 - [2024/11/20] **推出了API访问方式**，开发者和企业用户可以轻松集成KwooVA的强大功能，全面赋能农业领域的智能化升级，助力打造多样化、定制化的智慧农业解决方案。
-- [2024/10/29] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/)、Android端APP访问(下载APP请点击[这里](###天工开悟APP (Android版)))。
+- [2024/10/29] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/)、Android端APP访问(下载APP请点击[这里](### 天工开悟APP (Android版)))。
 
 ### 数据集收集
 
@@ -98,44 +100,22 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 以下是我们天工开悟APP中多模态推理任务的样例：
 
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
+<table align="center">
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center">
       <img src="assets/稻瘟病演示视频.gif" width="100%" />
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <img src="assets/水稻细菌性褐斑病演示视频.gif" width="100%" />
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <img src="assets/玉米大斑病演示视频.gif" width="100%" />
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <img src="assets/小麦叶锈病演示视频.gif" width="100%" />
     </td>
   </tr>
 </table>
-
-[//]: # (<table align="center">)
-
-[//]: # (    <p align="center">)
-
-[//]: # (        <img src="assets/稻瘟病演示视频.gif" width=15%/>)
-
-[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (        <img src="assets/水稻细菌性褐斑病演示视频.gif" width=15%/>)
-
-[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (        <img src="assets/玉米大斑病演示视频.gif" width=15%/>)
-
-[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
-
-[//]: # (        <img src="assets/小麦叶锈病演示视频.gif" width=15%/>)
-
-[//]: # (    </p>)
-
-[//]: # (</table>)
 
 
 ### 
@@ -232,8 +212,11 @@ curl -X DELETE "https://api.tgkwai.com/api/v1/attachments/delete?file_path=38/im
 
 使用方法：第一步，打开APP，输入**邀请码(8t6nwq)**进入登录页面，随后切换到“密码登录”页面输入账号、密码并勾选同意协议选项进行登录。第二步，登录后进入问答页面，在下方输入框中输入想要询问的问题，等待回答。
 
+<div align="center">
+
 ![image-20241121110726793](assets/image-20241121110726793.png)
 
+</div>
 ### 致谢
 
 我们的工作受到以下工作的启发，在此对项目成员表示诚挚的感谢。
