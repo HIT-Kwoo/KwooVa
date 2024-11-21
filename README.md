@@ -100,9 +100,13 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 <table align="center">
     <p align="center">
-        <img src="assets/玉米大斑病演示视频.gif" width=32%/>
+        <img src="assets/稻瘟病演示视频.gif" width=22%/>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/小麦叶锈病演示视频=.gif" width=32%/>
+        <img src="assets/水稻细菌性褐斑病演示视频.gif" width=22%/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="assets/玉米大斑病演示视频.gif" width=22%/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="assets/小麦叶锈病演示视频.gif" width=22%/>
     </p>
 </table>
 
