@@ -28,7 +28,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 - [2024/11/20] **更新了KwooVA的APP使用教程和测试用例**，让用户能够快速上手，充分体验KwooVA在农业生产中的高效性与便捷性，推动智能农业的普及和落地。
 - [2024/11/20] **推出了API访问方式**，开发者和企业用户可以轻松集成KwooVA的强大功能，全面赋能农业领域的智能化升级，助力打造多样化、定制化的智慧农业解决方案。
-- [2024/10/29] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/)、Android端APP访问(下载APP请点击[这里](### 天工开悟APP (Android版)))。
+- [2024/10/29] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/)、Android端APP访问(下载APP请点击[这里](#天工开悟APP (Android版)))。
 
 ### 数据集收集
 
@@ -124,7 +124,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 #### 获取访问密钥
 
-登录 [https://www.tgkwai.com/](vscode-file://vscode-app/c:/Develop/Microsoft VS Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.esm.html) 获取 `access token`。
+登录 [https://www.tgkwai.com/](https://www.tgkwai.com/) 获取 `access token`。
 
 #### 上传图片
 
@@ -192,7 +192,7 @@ curl -X DELETE "https://api.tgkwai.com/api/v1/attachments/delete?file_path=38/im
 -H "X-Token: Bearer sk-xxxxxx"
 ```
 
-[API详细说明文档]()
+[API详细说明文档](KwooVa-API使用指南.md)
 
 ### TODO List
 
