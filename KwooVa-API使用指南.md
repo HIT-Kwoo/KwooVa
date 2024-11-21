@@ -380,3 +380,18 @@ wscat -c "wss://api.tgkwai.com/api/v1/qamodel/session?x-token=sk-xxxx&session_id
 - 400 - `session_id` 不能为空
 - 400 - `session_id` 不匹配
 - 500 - 问答模型发送消息失败
+
+## FAQs
+
+**Q1: 在多轮对话时，模型会遗忘之前的上下文信息。**
+
+**A1:** 这可能是由于您在发送请求时，`message` 中缺少了之前会话的消息。在进行多轮对话时，请将历史请求和模型之前的回复一并拼接到 `message` 中，以确保上下文信息的完整性。
+
+**Q2: 使用 Python 的 websocket 库进行访问时，无法建立连接。**
+
+**A2:** 在使用 websocket 库建立连接时，默认会发送一个不受信任的 `Origin` 报头，导致服务器拒绝该访问请求。您可以通过禁用 `Origin` 头来解决此问题，示例如下：
+
+```python
+ws = websocket.create_connection(f"wss://api.tgkwai.com/api/v1/qamodel/session?x-token={ACCESS_TOKEN}", suppress_origin=True)
+```
+
