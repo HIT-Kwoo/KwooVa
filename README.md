@@ -203,7 +203,7 @@ curl -X DELETE "https://api.tgkwai.com/api/v1/attachments/delete?file_path=38/im
 本项目参与成员：[王好天](https://futureforme.github.io/) 、[刘卓然](https://github.com/1170300927) 、[孟繁舒](https://github.com/Meng-Fanshu) 、[孙习迈]() 、[王首力]() 、[罗会宾](https://github.com/huibinluo
 ) 、[乔畅](https://github.com/gaogaodeluoluo) 。
 
-指导教师：[姜京池](https://homepage.hit.edu.cn/jiangjingchi) 副教授、[关毅](https://homepage.hit.edu.cn/guanyi) 教授以及[刘劼]() 教授。
+指导教师：[刘劼]() 教授、[姜京池](https://homepage.hit.edu.cn/jiangjingchi) 副教授、[杨洋](https://ai.cust.edu.cn/szdw/zrjs/3f60de2fb4634ee189b2cb9ce84a2d98.htm) 副教授以及[关毅](https://homepage.hit.edu.cn/guanyi) 教授。
 
 ### 天工开悟APP (Android版)
 
