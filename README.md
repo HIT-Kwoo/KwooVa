@@ -98,6 +98,15 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 以下是我们天工开悟APP中多模态推理任务的样例：
 
+<table align="center">
+    <p align="center">
+        <img src="assets/玉米大斑病演示视频.gif" width=32%/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="assets/小麦叶锈病演示视频=.gif" width=32%/>
+    </p>
+</table>
+
+
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <div style="flex: 1; margin-right: 10px;">
     <iframe width="100%" height="600" src="assets/稻瘟病演示视频.mp4" frameborder="0" allowfullscreen></iframe>
