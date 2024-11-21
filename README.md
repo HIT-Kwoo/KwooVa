@@ -99,16 +99,43 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 以下是我们天工开悟APP中多模态推理任务的样例：
 
 <table align="center">
-    <p align="center">
-        <img src="assets/稻瘟病演示视频.gif" width=15%/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/水稻细菌性褐斑病演示视频.gif" width=15%/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/玉米大斑病演示视频.gif" width=15%/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/小麦叶锈病演示视频.gif" width=15%/>
-    </p>
+  <tr>
+    <td align="center">
+      <img src="assets/稻瘟病演示视频.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="assets/水稻细菌性褐斑病演示视频.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="assets/玉米大斑病演示视频.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="assets/小麦叶锈病演示视频.gif" width="100%" />
+    </td>
+  </tr>
 </table>
+
+[//]: # (<table align="center">)
+
+[//]: # (    <p align="center">)
+
+[//]: # (        <img src="assets/稻瘟病演示视频.gif" width=15%/>)
+
+[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (        <img src="assets/水稻细菌性褐斑病演示视频.gif" width=15%/>)
+
+[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (        <img src="assets/玉米大斑病演示视频.gif" width=15%/>)
+
+[//]: # (        &nbsp;&nbsp;&nbsp;&nbsp;)
+
+[//]: # (        <img src="assets/小麦叶锈病演示视频.gif" width=15%/>)
+
+[//]: # (    </p>)
+
+[//]: # (</table>)
 
 
 ### 
