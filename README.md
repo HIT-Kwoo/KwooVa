@@ -109,7 +109,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
     <iframe width="100%" height="600" src="assets/玉米大斑病演示视频.mp4" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="flex: 1;">
-    <iframe width="100%" height="600" src="assets/小麦叶锈病演示视频.gif" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="assets/小麦叶锈病演示视频.mp4" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
