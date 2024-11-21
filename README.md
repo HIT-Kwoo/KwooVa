@@ -28,7 +28,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 - [2024/11/20] **更新了KwooVA的APP使用教程和测试用例**，让用户能够快速上手，充分体验KwooVA在农业生产中的高效性与便捷性，推动智能农业的普及和落地。
 - [2024/11/20] **推出了API访问方式**，开发者和企业用户可以轻松集成KwooVA的强大功能，全面赋能农业领域的智能化升级，助力打造多样化、定制化的智慧农业解决方案。
-- [2024/10/29] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/) 、Android端APP访问(下载APP请点击[这里](#天工开悟app-android版))。
+- [2024/11/2] 🎉🎉我们**发布了KwooVA**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/) 、Android端APP访问(下载APP请点击[这里](#天工开悟app-android版))。
 
 ### 数据集收集
 
@@ -118,8 +118,6 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 </table>
 
 
-### 
-
 ### API调用
 
 #### 获取访问密钥
@@ -130,9 +128,9 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 允许的附件类型
 
-| 类型名 | 可用后缀名                                          | 最大大小 |
-| ------ | --------------------------------------------------- | -------- |
-| image  | "jpg", "jpeg", "png", "bmp", "webp"（不区分大小写） | 10MB     |
+| 类型名 | 可用后缀名                                          | 最大限制 |
+| ------ | --------------------------------------------------- |------|
+| image  | "jpg", "jpeg", "png", "bmp", "webp"（不区分大小写） | 10MB |
 
 **请求示例**:
 
@@ -182,7 +180,7 @@ wscat -c "wss://api.tgkwai.com/api/v1/qamodel/session?x-token=sk-xxxx&session_id
 
 #### 删除图片
 
-file_path`: 从上传接口获取的附件路径
+`file_path`: 从上传接口获取的附件路径
 
 **请求示例**:
 
@@ -202,9 +200,10 @@ curl -X DELETE "https://api.tgkwai.com/api/v1/attachments/delete?file_path=38/im
 
 ### 项目参与者
 
-本项目参与成员：王好天、刘卓然、孟繁舒、孙习迈、王首力、罗会宾、乔畅。
+本项目参与成员：[王好天](https://futureforme.github.io/) 、[刘卓然](https://github.com/1170300927) 、[孟繁舒](https://github.com/Meng-Fanshu) 、[孙习迈]() 、[王首力]() 、[罗会宾](https://github.com/huibinluo
+) 、[乔畅](https://github.com/gaogaodeluoluo) 。
 
-指导老师：姜京池副教授、关毅教授以及刘劼教授。
+指导教师：[姜京池](https://homepage.hit.edu.cn/jiangjingchi) 副教授、[关毅](https://homepage.hit.edu.cn/guanyi) 教授以及[刘劼]() 教授。
 
 ### 天工开悟APP (Android版)
 
@@ -217,6 +216,7 @@ curl -X DELETE "https://api.tgkwai.com/api/v1/attachments/delete?file_path=38/im
 ![image-20241121110726793](assets/image-20241121110726793.png)
 
 </div>
+
 ### 致谢
 
 我们的工作受到以下工作的启发，在此对项目成员表示诚挚的感谢。
