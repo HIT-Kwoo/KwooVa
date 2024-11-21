@@ -1,6 +1,6 @@
 # 天工开悟-农业多模态大模型(KwooVA)
 
-<img src="assets/image-20241121160240431.png" alt="image-20241121160240431" style="zoom:33%;" />
+![image-20241121160240431](assets/image-20241121160240431.png)
 
 > **天工不遗，以配万物；开悟不止，以成百谷。**
 
@@ -109,7 +109,7 @@ KwooVA以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
     <iframe width="100%" height="600" src="assets/玉米大斑病演示视频.mp4" frameborder="0" allowfullscreen></iframe>
   </div>
   <div style="flex: 1;">
-    <iframe width="100%" height="600" src="assets/小麦叶锈病演示视频.mp4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="600" src="assets/小麦叶锈病演示视频.gif" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
