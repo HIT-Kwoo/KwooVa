@@ -372,7 +372,7 @@ wscat -c "wss://api.tgkwai.com/api/v1/qamodel/session?x-token=sk-xxxx&session_id
 
 }
 ```
-
+*注：在请求多轮对话时，**每次发送消息要建立ws连接，服务端流式输出完毕后就会自动断开连接**。 
 
 
 ### 错误响应
