@@ -26,6 +26,7 @@ KwooVa以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 ### 🔥🔥News
 
+- [2025/03/20] :boom::boom:**推出了OpenAI兼容API调用方式**，开发者和企业用户可以轻松集成KwooLa到绝大多数平台。
 - [2024/11/20] **更新了KwooVa的APP使用教程和测试用例**，让用户能够快速上手，充分体验KwooVa在农业生产中的高效性与便捷性，推动智能农业的普及和落地。
 - [2024/11/20] **推出了API访问方式**，开发者和企业用户可以轻松集成KwooVa的强大功能，全面赋能农业领域的智能化升级，助力打造多样化、定制化的智慧农业解决方案。
 - [2024/11/2] 🎉🎉我们**发布了KwooVa**，为作物病虫害的精准识别、诊断与防治提供了革命性支持！支持[Web端](https://www.tgkwai.com/) 、Android端APP访问(下载APP请点击[这里](#天工开悟app-android版))。
@@ -119,6 +120,14 @@ KwooVa以**助力农业智能化转型**为使命，核心功能涵盖 **作物�
 
 
 ### API调用
+
+请点击以下链接查看详细api文档
+
+* [OpenAI兼容API](KwooVa-API使用指南-OpenAI兼容API.md)
+* [WebSocket方式](KwooVa-API使用指南.md)
+* [Websocket方式-python-demo](KwooLa_api_demo.py)
+
+以下展示WebSocket方式的简易调用方式
 
 #### 获取访问密钥
 
